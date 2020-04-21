@@ -10,10 +10,11 @@ console.log( typeof 100);
 let x =30;
 let y =10;
 let z;
-console.log( z );
+console.log( typeof z );
 
-let age =null;
-console.log( age);
+let car=null;
+
+console.log( typeof car);
 
 
 let film =false;
